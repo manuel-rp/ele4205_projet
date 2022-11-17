@@ -1,0 +1,7 @@
+*.o
+build_*/
+out/
+.project
+.vs
+common/doc
+*.avi
